@@ -1,2 +1,2 @@
-# project-21
-for the army purpose this application is made
+# p5.play-boilerplate
+Boiler plate for p5.play
